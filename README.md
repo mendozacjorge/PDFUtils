@@ -2,9 +2,10 @@
 
 Various pdf utils  
 
-The first one allows you to put images into pdfs  
-
 Requires iText  
 
+Intended to be used from an IDE to easily tweak parameters  
+
 TODO: 
-* add maven
+* maven support
+* main loop to allow cmd invokation
